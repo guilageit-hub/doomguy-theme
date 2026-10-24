@@ -1,0 +1,5 @@
+build/
+xiaozhi-esp32/
+__pycache__/
+*.pyc
+.env

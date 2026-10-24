@@ -1,0 +1,163 @@
+[
+  {
+    "file": "font_custom_14_4.bin",
+    "width": 0,
+    "height": 0,
+    "size": 28744,
+    "sha256": "d56ae1d47a2d83adb903d2e0a8e7abd71c61ee2b057ca2cb37ab0ded4f624f0f"
+  },
+  {
+    "file": "happy.gif",
+    "width": 240,
+    "height": 240,
+    "size": 202544,
+    "sha256": "daa6cce2a9d0f02c085fde5affc959113d5775cfa726d080cf0c457c657411de"
+  },
+  {
+    "file": "laughing.gif",
+    "width": 240,
+    "height": 240,
+    "size": 500347,
+    "sha256": "18c6ea5ab95b6855a5f10701628b71004594b6dbe956a2856983467063cfcdd1"
+  },
+  {
+    "file": "funny.gif",
+    "width": 240,
+    "height": 240,
+    "size": 500347,
+    "sha256": "18c6ea5ab95b6855a5f10701628b71004594b6dbe956a2856983467063cfcdd1"
+  },
+  {
+    "file": "sad.gif",
+    "width": 240,
+    "height": 240,
+    "size": 222699,
+    "sha256": "aadb48963748956e72bf3291b471728dac77ca6a72a99dfe0b905972d8c28c9f"
+  },
+  {
+    "file": "angry.gif",
+    "width": 240,
+    "height": 240,
+    "size": 307641,
+    "sha256": "ab9393691cd06f62de025f87bd908c7a5636c481a2e72c3dad3f0ec674ffeeb9"
+  },
+  {
+    "file": "crying.gif",
+    "width": 240,
+    "height": 240,
+    "size": 188190,
+    "sha256": "3adb2c1b38fa1f0eb60904654e663cabcf36fe2c33a44d5be8643343d21e6818"
+  },
+  {
+    "file": "embarrassed.gif",
+    "width": 240,
+    "height": 240,
+    "size": 428585,
+    "sha256": "82fdc57647d5f72488e7b4c097a96de2b5cbbf7d28214a50eea6ee72faaa047e"
+  },
+  {
+    "file": "shocked.gif",
+    "width": 240,
+    "height": 240,
+    "size": 257610,
+    "sha256": "99534eddd740263f3411e665d84f600f1803dfde95e64608f894f31b59f781c8"
+  },
+  {
+    "file": "thinking.gif",
+    "width": 240,
+    "height": 240,
+    "size": 202388,
+    "sha256": "959f213026356fbd0b565d88eb485a95b303aefc1a9714a99ec59efc4c10e1f6"
+  },
+  {
+    "file": "winking.gif",
+    "width": 240,
+    "height": 240,
+    "size": 70565,
+    "sha256": "a9e30ee8ae1e2761eafe100106cbf0857fb124c550821b496810e963060dfa33"
+  },
+  {
+    "file": "cool.gif",
+    "width": 240,
+    "height": 240,
+    "size": 245142,
+    "sha256": "0190e12e7e42428629ea91f30082145427fbaa1b2b33aa0bcb7e5412f1fe0a95"
+  },
+  {
+    "file": "kissy.gif",
+    "width": 240,
+    "height": 240,
+    "size": 125194,
+    "sha256": "3f468b86fe2fd6159834abdc125563d491394f6a1d39d0e999029fca2cf7c60e"
+  },
+  {
+    "file": "sleepy.gif",
+    "width": 240,
+    "height": 240,
+    "size": 64695,
+    "sha256": "ccf212e027c54bb42d09e7f6cb1a77572c89578bd54e1a8c2c3531df868cea6e"
+  },
+  {
+    "file": "relaxed.gif",
+    "width": 240,
+    "height": 240,
+    "size": 73900,
+    "sha256": "eaa9328c0176d550e12588922bc75059bca4a4869701da6ada4525ed35633fc4"
+  },
+  {
+    "file": "confident.gif",
+    "width": 240,
+    "height": 240,
+    "size": 64015,
+    "sha256": "d8c0347449ee7915b484eca1207b9351d6c69340380c19da9cc53618faa1292f"
+  },
+  {
+    "file": "neutral.gif",
+    "width": 240,
+    "height": 240,
+    "size": 84421,
+    "sha256": "19fc4263de3fe2d0656ae425f20e497757674395c2aaa581f39e6e7a0404ce09"
+  },
+  {
+    "file": "surprised.gif",
+    "width": 240,
+    "height": 240,
+    "size": 159272,
+    "sha256": "15b6bb04cccb54e1667fc4eda8f8118d5e558682eb99a700b08a693f5756b4b1"
+  },
+  {
+    "file": "silly.gif",
+    "width": 240,
+    "height": 240,
+    "size": 172433,
+    "sha256": "a86d81fcdcd7c22d6acd899a9ecea56f58973b2f06621160bdabc1f2e6f3a4e1"
+  },
+  {
+    "file": "delicious.gif",
+    "width": 240,
+    "height": 240,
+    "size": 169153,
+    "sha256": "e79f572823ffc3df68ec30f5749d3651057a88564a976b2268895b0274e7487c"
+  },
+  {
+    "file": "confused.gif",
+    "width": 240,
+    "height": 240,
+    "size": 168939,
+    "sha256": "bdcc96191643e240c65bb79b44a8e6cee6428ea51fee0aa45b14add0f0c08a93"
+  },
+  {
+    "file": "loving.gif",
+    "width": 240,
+    "height": 240,
+    "size": 172681,
+    "sha256": "04f2b1fd3680da7290ca4aff2a732c8f7f932068e5fc5f9044e82d22a39f4bc2"
+  },
+  {
+    "file": "index.json",
+    "width": 0,
+    "height": 0,
+    "size": 1814,
+    "sha256": "a24b6068181f1963476bafce8899732f8402f7aa72226588846171e3eb402673"
+  }
+]
